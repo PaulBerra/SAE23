@@ -1,0 +1,25 @@
+
+- ajout d'une date d'intervention
+- supression d'une date d'intervention
+- modification d'une date d'intervention
+
+- ajout d'un lieu d'intervention
+- supression d'un lieu d'intervention
+- modification d'un lieu d'intervention
+
+catégories : 
+
+- Lieu
+- Date / Heure
+- type d'intervention
+
+Orgnaisation en planning ?
+
+intervention faite ou pas ? case a cocher
+
+1 page de connection -> 1 page de compte (1 formulaire de connection)
+1 page principal (gere les redirection et montre les interventions prévus)
+1 page ajout d'intervention et date (transmet un formulaire avec les infos)
+1 page confirmation ajout et supression (envoi le formulaire que si confirmation ok)
+1 page suppression d'intervention et date (envoi le formulaire que si confirmation ok)
+1 page avec carte des interventions (si on a le temps)
