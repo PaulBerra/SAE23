@@ -1,0 +1,13 @@
+#formulaire {
+    display: flex;
+    background: linear-gradient(135deg, #ff0000, #2800f1);
+    margin-bottom: 325px;
+}
+#titre {
+    margin-left: center;
+}
+body{
+    display: flex;
+    height: 100vh;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
